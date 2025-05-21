@@ -1,8 +1,11 @@
-#### Ticket Management System
+# Ticket Management System
+
+## Overview
 
 This project is a robust, full-stack web application designed to streamline the process of managing and tracking support tickets within organizations. Built using Java and Spring Boot for the backend and MySQL as the relational database, the system provides a secure and scalable platform for handling ticket lifecycles from creation to resolution.
 
-**Key Features:**
+## Key Features
+
 - **RESTful API:** Exposes endpoints for ticket creation, assignment, status updates, and user management.
 - **Role-Based Access Control:** Supports multiple user roles (Admin, Agent, User) with granular permissions to ensure data security and proper workflow management.
 - **Authentication & Authorization:** Implements secure authentication mechanisms to protect sensitive operations and data.
@@ -12,19 +15,21 @@ This project is a robust, full-stack web application designed to streamline the 
 - **Command-Line Interface (CLI):** Includes a Java-based CLI for managing tickets directly from the terminal.
 - **API Testing:** Easily testable with tools like Postman for rapid development and debugging.
 
-**Video Demo**
+## Video Demo
 
-See the application in action! A video showcasing all the features is available on YouTube:
+See the app in action! A full walkthrough showcasing all features will be available soon.
 
-[**youtube video comming soon**]
+> 📺 **YouTube demo coming soon – stay tuned!**
 
 
-**Ideal For:**
+## Ideal For
+
 - IT support teams
 - Customer service departments
 - Organizations seeking to automate and track internal or external support requests
 
-**Tech Stack:**
+## Tech Stack
+
 - **Backend:** Java, Spring Boot, Maven
 - **Database:** MySQL
 - **Logging:** Log4j2, custom logger
