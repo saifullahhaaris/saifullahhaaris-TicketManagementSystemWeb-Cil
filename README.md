@@ -19,7 +19,7 @@ This project is a robust, full-stack web application designed to streamline the 
 
 See the app in action! A full walkthrough showcasing all features will be available soon.
 
-> 📺 **YouTube demo coming soon – stay tuned!**
+> **YouTube demo coming soon – stay tuned!**
 
 
 ## Ideal For
